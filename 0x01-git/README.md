@@ -1,2 +1,1 @@
-“my second commit”
-happy
+nothing else matters
